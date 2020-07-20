@@ -41,8 +41,33 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 * **'fuel_cost_per_mmbtu'**: the cost of fuel per mmbtu
 
-#### DataFrame 
+### DataFrame 
 
 ![dataset preview 1](https://user-images.githubusercontent.com/25388109/87964706-82764580-cab2-11ea-8e38-18c9bbf22736.png)
 
 ![dataset preview 1_1](https://user-images.githubusercontent.com/25388109/87964824-adf93000-cab2-11ea-87d7-d52bd4e165d9.png)
+
+
+## Code
+
+Template codde is provided in the `Hamoye_internship_stage_A_.ipynb` notebook file. You will also be required to use the `url=()` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. 
+
+## Run
+
+In a terminal or command window, navigate to the top-level project directory `Hamoye_internship_stage_A_.ipynb`/ (that contains this README) and run one of the following commands:
+
+When you're ready, fire up the notebook.
+
+```ipython notebook Hamoye_internship_stage_A_.ipynb```
+
+or
+
+```jupyter notebook Hamoye_internship_stage_A_.ipynb```
+
+This will open the Jupyter Notebook software and project file in your browser.
+
+
+### Visualize to check for features having missing values
+
+
+
