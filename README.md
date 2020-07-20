@@ -48,6 +48,12 @@ If you do not have Python installed yet, it is highly recommended that you insta
 ![dataset preview 1_1](https://user-images.githubusercontent.com/25388109/87964824-adf93000-cab2-11ea-87d7-d52bd4e165d9.png)
 
 
+### Data types of the dataset
+
+
+![dataframe data types](https://user-images.githubusercontent.com/25388109/87965483-bb62ea00-cab3-11ea-963a-f8ba37548530.png)
+
+
 ## Code
 
 Template codde is provided in the `Hamoye_internship_stage_A_.ipynb` notebook file. You will also be required to use the `url=()` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. 
@@ -70,4 +76,27 @@ This will open the Jupyter Notebook software and project file in your browser.
 ### Visualize to check for features having missing values
 
 
+![missing value graph ](https://user-images.githubusercontent.com/25388109/87965588-e9e0c500-cab3-11ea-84b5-3744a28c8fff.png)
 
+
+### After filling missing values using mode imputation strategy
+
+
+![missing value graph after filled](https://user-images.githubusercontent.com/25388109/87965684-0da40b00-cab4-11ea-9c9f-33333eeac48b.png)
+
+
+### Pearson Correlation Graph
+
+![Pearson correlation graph](https://user-images.githubusercontent.com/25388109/87965826-4a700200-cab4-11ea-9c22-0dbdc2ead895.png)
+
+
+### Numerical data distribution
+
+![data distribution](https://user-images.githubusercontent.com/25388109/87965939-6ffd0b80-cab4-11ea-86d3-07ea7833c437.png)
+
+
+### Exploratory data Analysis
+
+![fuel type code vs no of fuel type code](https://user-images.githubusercontent.com/25388109/87966026-958a1500-cab4-11ea-999e-05ffa5e67623.png)
+![report year vs fuel mmbtu per unit](https://user-images.githubusercontent.com/25388109/87966041-98850580-cab4-11ea-99b2-626b513eff33.png)
+![report year vs fuel type code vs fuel mmbtu per unit](https://user-images.githubusercontent.com/25388109/87966055-9b7ff600-cab4-11ea-9eff-e9ce0d3d4779.png)
