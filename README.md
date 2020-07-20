@@ -42,3 +42,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 * **'fuel_cost_per_mmbtu'**: the cost of fuel per mmbtu
 
 #### DataFrame 
+
+![dataset preview 1](https://user-images.githubusercontent.com/25388109/87964706-82764580-cab2-11ea-8e38-18c9bbf22736.png)
+
+![dataset preview 1_1](https://user-images.githubusercontent.com/25388109/87964824-adf93000-cab2-11ea-87d7-d52bd4e165d9.png)
