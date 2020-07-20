@@ -107,3 +107,32 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 #### report year vs fuel type code vs fuel mmbtu per unit
 ![report year vs fuel type code vs fuel mmbtu per unit](https://user-images.githubusercontent.com/25388109/87966055-9b7ff600-cab4-11ea-9eff-e9ce0d3d4779.png)
+
+
+## Conclusion
+
+This `Notebook` explores `electric utility data` from `1994` through `2018`. The challenge is to make this `data useful` and `derive/generate` actionable insights from it. The Features which are 
+
+* **'Record_id'**: record id
+
+* **'Utility_id_ferc1'**: Utility id assigned by the `FERC` (`FEDERAL ENERGY REGULATORY COMMISSION`)
+
+* **'Report_year'**: year of report
+
+* **'Plant_name_ferc1'**: the name of the plant
+
+* **'Fuel_type_code_pudl'**: the type of fuel
+
+* **'Fuel_unit'**: the unit of fuel
+
+* **'Fuel_qty_burned'**: the quantity of fuel burned
+
+* **'Fuel_mmbtu_per_unit'**: the measure of energy per unit
+
+* **'fuel_cost_per_unit_burned'**: the fuel cost per unit burned
+
+* **'Fuel_cost_per_unit_delivered'**: the cost of fuel delivered per unit
+
+* **'fuel_cost_per_mmbtu'**: the cost of fuel per mmbtu
+
+where analyzed and Insights where derive from them, I looked into the dataset, observe the few observations and features, check for missing values and used the `mean imputation` strategy to impute this `missing values`. Then, the `correlation` and `Covaraince` of each feature where observed and insights derived from the values. I computed the `Skewness` and `Kurtosis` of each feature, check its distribution and visualize to have a clear view of the different `features`. `Dissection`into the different features where carried out to better understand the different features of our dataset. A Deep Dive Exploratory Analysis was carried out and Insights were derived from the features as they relate to each other and itself.
