@@ -97,6 +97,13 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Exploratory data Analysis
 
+#### Fuel type code vs Number of fuel type code
 ![fuel type code vs no of fuel type code](https://user-images.githubusercontent.com/25388109/87966026-958a1500-cab4-11ea-999e-05ffa5e67623.png)
+
+
+#### report year vs fuel mmbtu per unit
 ![report year vs fuel mmbtu per unit](https://user-images.githubusercontent.com/25388109/87966041-98850580-cab4-11ea-99b2-626b513eff33.png)
+
+
+#### report year vs fuel type code vs fuel mmbtu per unit
 ![report year vs fuel type code vs fuel mmbtu per unit](https://user-images.githubusercontent.com/25388109/87966055-9b7ff600-cab4-11ea-9eff-e9ce0d3d4779.png)
